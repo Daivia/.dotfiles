@@ -147,6 +147,7 @@ if exists('&breakindent')
     set breakindent	" indent wrapped lines to same level
 endif
 set tw=80           " sets the text width to 80
+set fo+=t
 set colorcolumn=+0  " shows a column at tw chars
 set foldnestmax=1   " only fold one level deep
 
