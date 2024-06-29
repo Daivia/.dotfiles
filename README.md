@@ -7,4 +7,5 @@
 ## List of Dotfiles
 - .bashrc
 - .bash_profile
+- .zshrc
 - .vimrc
